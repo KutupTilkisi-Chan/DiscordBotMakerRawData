@@ -1,4 +1,4 @@
-Kendim Yaptım
+Kendim YaptÄ±m
 Beta MODS Gerektiriyor
-Geliştirilebilir Bir Komut İsterseniz Kaç Kazanan Olcak Şeklindede Ayarlayabilirsiniz
-Tek Hatası Çekiliş Bittiğinde Emojiye Kimse Basmamışsa Bot Döngüye Giriyor Ve 
+GeliÅŸtirilebilir Bir Komut Ä°sterseniz KaÃ§ Kazanan Olcak Åeklindede Ayarlayabilirsiniz
+Tek HatasÄ± Ã‡ekiliÅŸ BittiÄŸinde Emojiye Kimse BasmamÄ±ÅŸsa Bot DÃ¶ngÃ¼ye Giriyor Ve Bot KapanÄ±yor
